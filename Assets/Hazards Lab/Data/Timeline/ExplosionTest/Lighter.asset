@@ -14,5 +14,5 @@ MonoBehaviour:
   gameObject: {fileID: 1299347064981624, guid: d35f9322b5d75544abd74a4e66d90282, type: 2}
   initActions: []
   actions:
-  - {fileID: 11400000, guid: a423a06c8cdac624480521fefe73e2ae, type: 2}
+  - {fileID: 11400000, guid: bab8c87ed4643fe439225e4937865a1b, type: 2}
   - {fileID: 11400000, guid: 5e63f5032eab8b74f941e34582f51c50, type: 2}

@@ -11,6 +11,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9ac4d502628eb784e83f3a86842ba15b, type: 3}
   m_Name: WalkAnimation
   m_EditorClassIdentifier: 
-  startTime: 1
-  duration: 2
+  startTime: 0.5
+  duration: 1.5
   variableName: walk

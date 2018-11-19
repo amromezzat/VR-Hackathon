@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b15be8388dbdd5540ab7075cd1d0651c, type: 3}
+  m_Name: FireParticle
+  m_EditorClassIdentifier: 
+  gameObject: {fileID: 100000, guid: 416b2492ca9d1b140874c7ba41cb3214, type: 2}
+  initActions:
+  - {fileID: 11400000, guid: 01f7d57a84b7ae14c828d06bf35e7c39, type: 2}
+  - {fileID: 11400000, guid: 01476672f9a46394db655cf835a3098d, type: 2}
+  actions:
+  - {fileID: 11400000, guid: 2903f71a7cefed4429a11bdefb3f0756, type: 2}

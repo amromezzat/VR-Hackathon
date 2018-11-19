@@ -21,7 +21,11 @@ public class ExplodeAction : TimeslotAction
         int i = 0;
         while (i < hitColliders.Length)
         {
-            hitColliders[i].GetComponent<Rigidbody>().AddExplosionForce(force, explosionPosition, radius);
+            Rigidbody collidededRB = hitColliders[i].GetComponent<Rigidbody>();
+
+            if(collidededRB)
+                collidededRB.AddExplosionForce(force, explosionPosition, radius, 5, ForceMode.Impulse);
+
             i++;
         }
     }
