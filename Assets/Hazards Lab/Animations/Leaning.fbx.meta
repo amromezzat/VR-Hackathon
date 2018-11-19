@@ -1,9 +1,9 @@
 fileFormatVersion: 2
-guid: f60634cffcf66214cbf45c45a63a1b9c
+guid: dceee65d0835e554282cf02d4f7164cc
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
-    100000: dummy_hips3
+    100000: //RootNode
     100002: mixamorig:Head
     100004: mixamorig:HeadTop_End
     100006: mixamorig:Hips
@@ -37,8 +37,7 @@ ModelImporter:
     100062: mixamorig:Spine
     100064: mixamorig:Spine1
     100066: mixamorig:Spine2
-    100068: //RootNode
-    400000: dummy_hips3
+    400000: //RootNode
     400002: mixamorig:Head
     400004: mixamorig:HeadTop_End
     400006: mixamorig:Hips
@@ -72,18 +71,9 @@ ModelImporter:
     400062: mixamorig:Spine
     400064: mixamorig:Spine1
     400066: mixamorig:Spine2
-    400068: //RootNode
-    2100000: No Name
-    4300000: dummy_hips3
     7400000: mixamo.com
     9500000: //RootNode
-    13700000: dummy_hips3
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: No Name
-    second: {fileID: 2100000, guid: 33226993117d21a49b4ee16a160f7094, type: 2}
+  externalObjects: {}
   materials:
     importMaterials: 1
     materialName: 0
@@ -110,11 +100,39 @@ ModelImporter:
     animationWrapMode: 0
     extraExposedTransformPaths: []
     extraUserProperties: []
-    clipAnimations: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: mixamo.com
+      takeName: mixamo.com
+      firstFrame: 0
+      lastFrame: 100
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
     isReadable: 1
   meshes:
     lODScreenPercentages: []
-    globalScale: 6
+    globalScale: 3
     meshCompression: 0
     addColliders: 0
     importVisibility: 1
@@ -134,7 +152,7 @@ ModelImporter:
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
     useFileScale: 1
-    previousCalculatedGlobalScale: 0.04
+    previousCalculatedGlobalScale: 0.01
     hasPreviousCalculatedGlobalScale: 1
   tangentSpace:
     normalSmoothAngle: 60
