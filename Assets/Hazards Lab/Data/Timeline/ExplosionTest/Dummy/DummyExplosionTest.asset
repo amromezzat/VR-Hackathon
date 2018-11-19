@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b15be8388dbdd5540ab7075cd1d0651c, type: 3}
+  m_Name: DummyExplosionTest
+  m_EditorClassIdentifier: 
+  gameObject: {fileID: 1172370577127358, guid: 8e766dbdab67620428a7f204a6129449, type: 2}
+  initActions:
+  - {fileID: 11400000, guid: 2ef0d3431f2037542afb7bf74c225e9f, type: 2}
+  - {fileID: 11400000, guid: 2b38b7f80cd94b5498e79c05e10019db, type: 2}
+  actions:
+  - {fileID: 11400000, guid: 7e2c974d4d3678344baeda208c57e0ee, type: 2}
+  - {fileID: 11400000, guid: cb71c0dda00f7fb48876594111ee5f5e, type: 2}
+  - {fileID: 11400000, guid: 9a5707f898c56c143a37f40c01b5803c, type: 2}
+  - {fileID: 11400000, guid: 6d5f71c9c07b0c841a65ca36a24f3ee4, type: 2}
