@@ -11,6 +11,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1f9fc250748161944bdc4cb86cba0985, type: 3}
   m_Name: ReplaceWithRagdoll
   m_EditorClassIdentifier: 
-  startTime: 13
+  startTime: 16
   duration: 0
   raggedDoll: {fileID: 1296484582931476, guid: a5cfc71ded0ca2d4f85a987e46206ad9, type: 2}

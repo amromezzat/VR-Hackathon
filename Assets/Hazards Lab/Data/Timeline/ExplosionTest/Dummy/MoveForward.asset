@@ -13,4 +13,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   startTime: 1
   duration: 2
-  displacementVector: {x: 0, y: 0, z: -2}
+  displacementVector: {x: 0, y: 0, z: -1.5}

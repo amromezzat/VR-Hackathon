@@ -54,6 +54,8 @@ ModelImporter:
     400046: Point_Light__3_
     400048: Room
     2100000: Default_Material
+    2100002: 02 - Default
+    2100004: 'Material #39512'
     2300000: Cube
     2300002: Cube_1
     2300004: Cube_2
