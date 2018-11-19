@@ -11,6 +11,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b15be8388dbdd5540ab7075cd1d0651c, type: 3}
   m_Name: ExplosionParticle
   m_EditorClassIdentifier: 
-  gameObject: {fileID: 0}
-  initActions: []
-  actions: []
+  gameObject: {fileID: 100002, guid: 6ecf76dc4f268d340b2666896a954bcc, type: 2}
+  initActions:
+  - {fileID: 11400000, guid: 01476672f9a46394db655cf835a3098d, type: 2}
+  - {fileID: 11400000, guid: 01f7d57a84b7ae14c828d06bf35e7c39, type: 2}
+  actions:
+  - {fileID: 11400000, guid: 4fb50018b927a2a46801092a8b962a3d, type: 2}
