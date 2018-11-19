@@ -1705,6 +1705,11 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 4de6421d0e62d7047b80b223f9e7de9f, type: 2}
   - {fileID: 11400000, guid: 8bfcd506a7889824bb3f9cfdac76b6a1, type: 2}
   - {fileID: 11400000, guid: 35c009b7c3f76ad46b0c4d0ad9e66650, type: 2}
+  - {fileID: 11400000, guid: 6799558bbd83c854c9a6cd23cffb77f2, type: 2}
+  - {fileID: 11400000, guid: 777c5c6cf2f3ffa4d9235695462331d5, type: 2}
+  - {fileID: 11400000, guid: 55e660c764259f548b0b9a5dfbfce5b1, type: 2}
+  - {fileID: 11400000, guid: 759355510c86d384492fc4e687da9277, type: 2}
+  - {fileID: 11400000, guid: e7c78374deb972841afba9510900568d, type: 2}
   onExit: {fileID: 11400000, guid: ba03a2cc65f36884c9606c301d5f6e3f, type: 2}
 --- !u!137 &137632352880354490
 SkinnedMeshRenderer:

@@ -12,8 +12,11 @@ ModelImporter:
     2100000: 02 - Default
     2100002: 'Material #39512'
     2300000: Cube__5_
+    2300002: //RootNode
     3300000: Cube__5_
+    3300002: //RootNode
     4300000: Cube__5_
+    4300002: Object001
   externalObjects: {}
   materials:
     importMaterials: 1
